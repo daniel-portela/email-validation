@@ -11,13 +11,13 @@
 
 <a href="https://e-mailvalidation.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 
-![alt text](preview-home.png)
+![preview-home](https://github.com/daniel-portela/email-validation/assets/110783805/2abf4e76-ebef-4f48-933c-09bd1a938147)
 
-![alt text](preview-error.png)
+![preview-error](https://github.com/daniel-portela/email-validation/assets/110783805/a9c71fd7-033f-4150-bb17-7ee8f79006f9)
 
-![alt text](preview-sucess.png)
+![preview-sucess](https://github.com/daniel-portela/email-validation/assets/110783805/f27e00e2-f66d-4db6-822d-e6da49655890)
 
-![alt text](preview-responsive.jpg)
+![preview-responsive](https://github.com/daniel-portela/email-validation/assets/110783805/b7f8e770-999d-4c68-a3bf-89aff469d453)
 </div>
 
 <b>Tecnologias</b>
