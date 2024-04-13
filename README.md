@@ -87,20 +87,4 @@ Contribuições são bem-vindas! Se você deseja melhorar este projeto de alguma
 
 Este projeto foi desenvolvido por <a href="https://github.com/daniel-portela/">Daniel Portela</a> e é distribuído sob a [licença MIT]. Para mais informações, consulte o arquivo [LISENCE](LICENSE).
 
-<br><b>Contato:</b>
-
-<p>Se você quiser entrar em contato comigo, sinta-se a vontade.</p> 
-
-<a href="https://linkedin.com/in/danielengineer" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
- <a href="https://instagram.com/danielengineer_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/ - Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
- <a href="https://wa.me/77999109489" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
-</a>
-<a href="https://www.behance.net/danielengineer_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-behance-05122A?style=flat&logo=behance" alt="behance"/>
-</a>
 
